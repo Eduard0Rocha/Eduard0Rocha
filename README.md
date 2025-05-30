@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Eduardo Rocha
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard0Rocha&show_icons=true&theme=tokyonight)
 
