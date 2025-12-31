@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Eduardo Rocha
 
-#### 🎓 Software Engineering Master's student at the University of Minho
+#### 🎓 Software Engineer | MSc in Software Engineering (University of Minho)
 
 The projects you'll find here are mainly university assignments or personal side-projects — things I’ve built to learn, experiment, or just for fun :)
 
